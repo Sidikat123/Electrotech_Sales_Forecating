@@ -1,0 +1,10 @@
+.env
+venv/
+Model\mlruns
+__pycache__/
+Dataset
+Data Cleaning&EDA\cleaned_data.csv
+Model\arima_model.joblib
+Model\prophet_model.joblib
+Model\random_forest_model.joblib
+
