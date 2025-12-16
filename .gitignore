@@ -1,6 +1,6 @@
 .env
 venv/
-Model\mlruns
+Model/mlruns/
 __pycache__/
 Dataset
 Data Cleaning&EDA\cleaned_data.csv
