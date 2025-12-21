@@ -1,14 +1,20 @@
 .env
 venv/
-Model/mlruns/
+Models\mlruns
 __pycache__/
 Dataset
 Data Cleaning&EDA\cleaned_data.csv
-Model\arima_model.joblib
-Model\prophet_model.joblib
-Model\random_forest_model.joblib
-Model\arima_model_Accessories.joblib
-Model\arima_model_Laptop.joblib
-Model\arima_model_Smartphone.joblib
-Model\arima_model_Tablet.joblib
+Models\prophet_model_Accessories.joblib
+Models\prophet_model_Laptop.joblib
+Models\prophet_model_Smartphone.joblib
+Models\prophet_model_Tablet.joblib
+Models\rf_model_Accessories.joblib
+Models\rf_model_Laptop.joblib
+Models\rf_model_Smartphone.joblib
+Models\rf_model_Tablet.joblib
+
+
+
+
+
 
